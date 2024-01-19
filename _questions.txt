@@ -1,0 +1,16 @@
+[1-->done]  Write a lex program to count and print the number of vowels and consonants. print all the words that start with vowels.
+[2-->done]  Write a program in a file and print it with a line number using lex.
+[3-->done]  Write a program to count the number of words in the given string that has a character other than alphabets. print all the words which have more than to c.
+[4-->done]  Lex prog to count the number of keywords.
+[5-->done]  Lex prog to recognize and display keywords,numbers and words in the given statement.
+[6-->done]  Lex program to count numbers of lines,words,spaces,numbers and characters.
+[7-->done]  Lex program to check mobile number is valid or not.
+[8-->done]  Lex program to check valid email.
+[9-->done]  Lex program to print the largest word and its length in the given input.
+[10-->done] Lex program to check given number is even or odd.
+[11-->done] Lex program to check given number is prime or not.
+[12-->done] Lex program to count positivenumbers, negative number and fraction number.
+[13-->done] Lex code to count words that are less than 8 and greater than 4.
+[14-->done] Lex program to check given is valid or not (2000-2050).
+[15-->done] Lex program to check whether a year is a leap year or not (assume that year has exact four digits).
+[16-->done] Lex Program for Palindrome Checker.
